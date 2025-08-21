@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Laravel-based web applications and automation tools.
 - 🌱 I’m exploring Python for data processing and automation.
 - 💬 Ask me about **Laravel**, **PHP**, **Python**, and **API integrations**.
-- 📫 How to reach me: **mirzaarehman@gmail.com**
+- 📫 How to reach me: **arehman013@gmail.com**
 
 ---
 
@@ -40,5 +40,5 @@
 ---
 
 ### 📫 Contact Me
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mirzaarehman@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:arehman013@gmail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mirzaarehman)
